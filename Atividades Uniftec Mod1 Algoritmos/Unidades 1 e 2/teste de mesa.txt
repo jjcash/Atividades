@@ -1,0 +1,10 @@
+1  algoritmo "area"
+2  var
+3     num1, num2 : inteiro
+4     area : real
+5  inicio
+6     leia (num1)
+7     leia (num2)
+8     area <- (num1 * num2) / 2
+9    escreva (area)
+10 fim algoritmo
