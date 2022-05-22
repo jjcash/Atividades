@@ -65,7 +65,6 @@ namespace Revisao{
                 opcaoUsuario = obterOpcaoUsuario();
             }
         }
-
         private static string obterOpcaoUsuario()
         {
             Console.WriteLine("Informe a opcao desejada: ");
