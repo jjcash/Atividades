@@ -1,0 +1,15 @@
+D:\workspace\Atividades\w3resource\Div\bin\Debug\net6.0\Div.exe
+D:\workspace\Atividades\w3resource\Div\bin\Debug\net6.0\Div.deps.json
+D:\workspace\Atividades\w3resource\Div\bin\Debug\net6.0\Div.runtimeconfig.json
+D:\workspace\Atividades\w3resource\Div\bin\Debug\net6.0\Div.dll
+D:\workspace\Atividades\w3resource\Div\bin\Debug\net6.0\Div.pdb
+D:\workspace\Atividades\w3resource\Div\obj\Debug\net6.0\Div.csproj.AssemblyReference.cache
+D:\workspace\Atividades\w3resource\Div\obj\Debug\net6.0\Div.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\Atividades\w3resource\Div\obj\Debug\net6.0\Div.AssemblyInfoInputs.cache
+D:\workspace\Atividades\w3resource\Div\obj\Debug\net6.0\Div.AssemblyInfo.cs
+D:\workspace\Atividades\w3resource\Div\obj\Debug\net6.0\Div.csproj.CoreCompileInputs.cache
+D:\workspace\Atividades\w3resource\Div\obj\Debug\net6.0\Div.dll
+D:\workspace\Atividades\w3resource\Div\obj\Debug\net6.0\refint\Div.dll
+D:\workspace\Atividades\w3resource\Div\obj\Debug\net6.0\Div.pdb
+D:\workspace\Atividades\w3resource\Div\obj\Debug\net6.0\Div.genruntimeconfig.cache
+D:\workspace\Atividades\w3resource\Div\obj\Debug\net6.0\ref\Div.dll

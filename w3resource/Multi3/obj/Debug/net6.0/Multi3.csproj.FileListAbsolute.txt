@@ -1,0 +1,15 @@
+D:\workspace\Atividades\w3resource\Multi3\bin\Debug\net6.0\Multi3.exe
+D:\workspace\Atividades\w3resource\Multi3\bin\Debug\net6.0\Multi3.deps.json
+D:\workspace\Atividades\w3resource\Multi3\bin\Debug\net6.0\Multi3.runtimeconfig.json
+D:\workspace\Atividades\w3resource\Multi3\bin\Debug\net6.0\Multi3.dll
+D:\workspace\Atividades\w3resource\Multi3\bin\Debug\net6.0\Multi3.pdb
+D:\workspace\Atividades\w3resource\Multi3\obj\Debug\net6.0\Multi3.csproj.AssemblyReference.cache
+D:\workspace\Atividades\w3resource\Multi3\obj\Debug\net6.0\Multi3.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\Atividades\w3resource\Multi3\obj\Debug\net6.0\Multi3.AssemblyInfoInputs.cache
+D:\workspace\Atividades\w3resource\Multi3\obj\Debug\net6.0\Multi3.AssemblyInfo.cs
+D:\workspace\Atividades\w3resource\Multi3\obj\Debug\net6.0\Multi3.csproj.CoreCompileInputs.cache
+D:\workspace\Atividades\w3resource\Multi3\obj\Debug\net6.0\Multi3.dll
+D:\workspace\Atividades\w3resource\Multi3\obj\Debug\net6.0\refint\Multi3.dll
+D:\workspace\Atividades\w3resource\Multi3\obj\Debug\net6.0\Multi3.pdb
+D:\workspace\Atividades\w3resource\Multi3\obj\Debug\net6.0\Multi3.genruntimeconfig.cache
+D:\workspace\Atividades\w3resource\Multi3\obj\Debug\net6.0\ref\Multi3.dll

@@ -1,0 +1,15 @@
+D:\workspace\Atividades\w3resource\Operations\bin\Debug\net6.0\Operations.exe
+D:\workspace\Atividades\w3resource\Operations\bin\Debug\net6.0\Operations.deps.json
+D:\workspace\Atividades\w3resource\Operations\bin\Debug\net6.0\Operations.runtimeconfig.json
+D:\workspace\Atividades\w3resource\Operations\bin\Debug\net6.0\Operations.dll
+D:\workspace\Atividades\w3resource\Operations\bin\Debug\net6.0\Operations.pdb
+D:\workspace\Atividades\w3resource\Operations\obj\Debug\net6.0\Operations.csproj.AssemblyReference.cache
+D:\workspace\Atividades\w3resource\Operations\obj\Debug\net6.0\Operations.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\Atividades\w3resource\Operations\obj\Debug\net6.0\Operations.AssemblyInfoInputs.cache
+D:\workspace\Atividades\w3resource\Operations\obj\Debug\net6.0\Operations.AssemblyInfo.cs
+D:\workspace\Atividades\w3resource\Operations\obj\Debug\net6.0\Operations.csproj.CoreCompileInputs.cache
+D:\workspace\Atividades\w3resource\Operations\obj\Debug\net6.0\Operations.dll
+D:\workspace\Atividades\w3resource\Operations\obj\Debug\net6.0\refint\Operations.dll
+D:\workspace\Atividades\w3resource\Operations\obj\Debug\net6.0\Operations.pdb
+D:\workspace\Atividades\w3resource\Operations\obj\Debug\net6.0\Operations.genruntimeconfig.cache
+D:\workspace\Atividades\w3resource\Operations\obj\Debug\net6.0\ref\Operations.dll

@@ -1,0 +1,15 @@
+D:\workspace\Atividades\w3resource\Sum\bin\Debug\net6.0\Sum.exe
+D:\workspace\Atividades\w3resource\Sum\bin\Debug\net6.0\Sum.deps.json
+D:\workspace\Atividades\w3resource\Sum\bin\Debug\net6.0\Sum.runtimeconfig.json
+D:\workspace\Atividades\w3resource\Sum\bin\Debug\net6.0\Sum.dll
+D:\workspace\Atividades\w3resource\Sum\bin\Debug\net6.0\Sum.pdb
+D:\workspace\Atividades\w3resource\Sum\obj\Debug\net6.0\Sum.csproj.AssemblyReference.cache
+D:\workspace\Atividades\w3resource\Sum\obj\Debug\net6.0\Sum.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\Atividades\w3resource\Sum\obj\Debug\net6.0\Sum.AssemblyInfoInputs.cache
+D:\workspace\Atividades\w3resource\Sum\obj\Debug\net6.0\Sum.AssemblyInfo.cs
+D:\workspace\Atividades\w3resource\Sum\obj\Debug\net6.0\Sum.csproj.CoreCompileInputs.cache
+D:\workspace\Atividades\w3resource\Sum\obj\Debug\net6.0\Sum.dll
+D:\workspace\Atividades\w3resource\Sum\obj\Debug\net6.0\refint\Sum.dll
+D:\workspace\Atividades\w3resource\Sum\obj\Debug\net6.0\Sum.pdb
+D:\workspace\Atividades\w3resource\Sum\obj\Debug\net6.0\Sum.genruntimeconfig.cache
+D:\workspace\Atividades\w3resource\Sum\obj\Debug\net6.0\ref\Sum.dll
