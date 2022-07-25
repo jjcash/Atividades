@@ -6,5 +6,5 @@ build_property.ProjectTypeGuids =
 build_property.InvariantGlobalization = 
 build_property.PlatformNeutralAssembly = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
-build_property.RootNamespace = RPG
-build_property.ProjectDir = c:\workspace\biblioteca-virtual\Atividades\AtividadesDio\RPG\
+build_property.RootNamespace = Div
+build_property.ProjectDir = c:\workspace\biblioteca-virtual\Atividades\w3resource\C#\Div\
